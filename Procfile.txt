@@ -1,0 +1,1 @@
+web: gunicorn seguimiento_cuentas:app

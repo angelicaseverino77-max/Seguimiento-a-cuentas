@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "username": "admin_epb",
+    "password": "123",
+    "rol": "epb",
+    "nombre": "Administrador EPB"
+  },
+  {
+    "id": 2,
+    "username": "contratista1",
+    "password": "123",
+    "rol": "contratista",
+    "nombre": "Empresa Constructora S.A."
+  },
+  {
+    "id": 3,
+    "username": "supervisor1",
+    "password": "123",
+    "rol": "supervisor",
+    "nombre": "Supervisor Calidad"
+  },
+  {
+    "id": 4,
+    "username": "general1",
+    "password": "123",
+    "rol": "general",
+    "nombre": "Secretaría General"
+  },
+  {
+    "id": 5,
+    "username": "hacienda1",
+    "password": "123",
+    "rol": "hacienda",
+    "nombre": "Departamento Hacienda"
+  }
+]

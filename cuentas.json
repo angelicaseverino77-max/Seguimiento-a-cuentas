@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "numero_cuenta": "CC-20251105-001",
+    "contratista_id": 2,
+    "contratista_nombre": "Empresa Constructora S.A.",
+    "numero_contrato": "sdfsdf",
+    "numero_acta": "sfsdf",
+    "valor": 15151.0,
+    "descripcion": "78\r\n",
+    "estado_actual": "radicado",
+    "timestamps": {
+      "radicacion": "2025-11-05 15:46:36"
+    },
+    "historial": [
+      {
+        "estado": "radicado",
+        "usuario": "Empresa Constructora S.A.",
+        "timestamp": "2025-11-05 15:46:36",
+        "accion": "radicacion",
+        "comentario": "Cuenta radicada inicialmente"
+      }
+    ],
+    "alertas": [],
+    "dias_por_etapa": {}
+  },
+  {
+    "id": 2,
+    "numero_cuenta": "CC-20251105-002",
+    "contratista_id": 2,
+    "contratista_nombre": "Empresa Constructora S.A.",
+    "numero_contrato": "dhzfgh",
+    "numero_acta": "hdzhzdh",
+    "valor": 5464.0,
+    "descripcion": "fhdfhdfhzd",
+    "estado_actual": "radicado",
+    "responsable_actual": 1,
+    "responsable_nombre": "Administrador EPB",
+    "timestamps": {
+      "radicacion": "2025-11-05 17:26:49",
+      "asignacion_epb": "2025-11-05 17:26:49"
+    },
+    "historial": [
+      {
+        "estado": "radicado",
+        "usuario": "Empresa Constructora S.A.",
+        "timestamp": "2025-11-05 17:26:49",
+        "accion": "radicacion",
+        "comentario": "Cuenta radicada inicialmente",
+        "responsable_asignado": "Administrador EPB",
+        "responsable_id": 1
+      }
+    ],
+    "alertas": [],
+    "dias_por_etapa": {}
+  },
+  {
+    "id": 3,
+    "numero_cuenta": "CC-20251105-003",
+    "contratista_id": 2,
+    "contratista_nombre": "Empresa Constructora S.A.",
+    "numero_contrato": "xyz",
+    "numero_acta": "001",
+    "valor": 15000000.0,
+    "descripcion": "afaf",
+    "estado_actual": "radicado",
+    "responsable_actual": 1,
+    "responsable_nombre": "Administrador EPB",
+    "timestamps": {
+      "radicacion": "2025-11-05 17:43:41",
+      "asignacion_epb": "2025-11-05 17:43:41"
+    },
+    "historial": [
+      {
+        "estado": "radicado",
+        "usuario": "Empresa Constructora S.A.",
+        "timestamp": "2025-11-05 17:43:41",
+        "accion": "radicacion",
+        "comentario": "Cuenta radicada inicialmente",
+        "responsable_asignado": "Administrador EPB",
+        "responsable_id": 1
+      }
+    ],
+    "alertas": [],
+    "dias_por_etapa": {}
+  },
+  {
+    "id": 4,
+    "numero_cuenta": "CC-20251110-004",
+    "contratista_id": 2,
+    "contratista_nombre": "Empresa Constructora S.A.",
+    "numero_contrato": "fsf",
+    "numero_acta": "afsf",
+    "valor": 444.0,
+    "descripcion": "afa",
+    "estado_actual": "revision_supervisor",
+    "responsable_actual": 4,
+    "responsable_nombre": "Secretaría General",
+    "timestamps": {
+      "radicacion": "2025-11-10 16:44:51",
+      "asignacion_epb": "2025-11-10 16:44:51",
+      "inicio_revision_epb": "2025-11-10 16:44:51",
+      "inicio_revision_supervisor": "2025-11-10 16:45:10",
+      "asignado_revision_supervisor": "2025-11-10 16:45:10"
+    },
+    "historial": [
+      {
+        "estado": "radicado",
+        "usuario": "Empresa Constructora S.A.",
+        "timestamp": "2025-11-10 16:44:51",
+        "accion": "radicacion",
+        "comentario": "Cuenta radicada inicialmente"
+      },
+      {
+        "estado": "revision_epb",
+        "usuario": "Sistema",
+        "timestamp": "2025-11-10 16:44:51",
+        "accion": "asignacion",
+        "comentario": "Cuenta asignada automáticamente a Administrador EPB",
+        "responsable_asignado": "Administrador EPB",
+        "responsable_id": 1
+      },
+      {
+        "estado": "revision_supervisor",
+        "usuario": "Administrador EPB",
+        "timestamp": "2025-11-10 16:45:10",
+        "accion": "aprobacion",
+        "comentario": "Aprobado por epb - Avanza a Revision Supervisor",
+        "responsable_asignado": "Secretaría General",
+        "responsable_id": 4
+      }
+    ],
+    "alertas": [],
+    "dias_por_etapa": {}
+  },
+  {
+    "id": 5,
+    "numero_cuenta": "CC-20251110-005",
+    "contratista_id": 2,
+    "contratista_nombre": "Empresa Constructora S.A.",
+    "numero_contrato": "zrjsj",
+    "numero_acta": "fjtyjty",
+    "valor": 2000.0,
+    "descripcion": "yjtyj",
+    "estado_actual": "revision_epb",
+    "responsable_actual": 1,
+    "responsable_nombre": "Administrador EPB",
+    "timestamps": {
+      "radicacion": "2025-11-10 16:59:11",
+      "asignacion_epb": "2025-11-10 16:59:11",
+      "inicio_revision_epb": "2025-11-10 16:59:11"
+    },
+    "historial": [
+      {
+        "estado": "radicado",
+        "usuario": "Empresa Constructora S.A.",
+        "timestamp": "2025-11-10 16:59:11",
+        "accion": "radicacion",
+        "comentario": "Cuenta radicada inicialmente"
+      },
+      {
+        "estado": "revision_epb",
+        "usuario": "Sistema",
+        "timestamp": "2025-11-10 16:59:11",
+        "accion": "asignacion",
+        "comentario": "Cuenta asignada automáticamente a Administrador EPB",
+        "responsable_asignado": "Administrador EPB",
+        "responsable_id": 1
+      }
+    ]
+  }
+]
